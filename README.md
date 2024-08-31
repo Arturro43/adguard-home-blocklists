@@ -1,6 +1,12 @@
 # adguard-home-blocklists
 
+####
+
+
 These are BLOCKLISTS I use on my adguard home.
+
+
+####
 
 AdGuard DNS filter - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 
@@ -48,7 +54,13 @@ ALLOWLISTS
 
 HaGeZi's Allowlist Referral - https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/whitelist-referral.txt
 
+####
+
+
 BLOCKLISTS on upstream (adguard-dns free) - it is used as fallback when my local server is down
+
+
+####
 
 AdGuard DNS filter - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 
