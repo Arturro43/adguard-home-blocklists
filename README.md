@@ -2,6 +2,8 @@
 
 ####
 
+![image](https://github.com/user-attachments/assets/c996f293-9b5c-4eff-b619-01b6ef5b8d27)
+tested using [https://d3ward.github.io/toolz/adblock](https://d3ward.github.io/toolz/adblock)
 
 These are BLOCKLISTS I use on my adguard home.
 
